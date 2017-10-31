@@ -6,9 +6,9 @@ page-intro {
     background: #fff;
     border-color: transparent;
   }
-  .toolbar-ios {
+  ion-toolbar {
     position: absolute;
-    width: 90%;
-    top: 20px;
+    width: 95% !important;
+    top: 10px;
   }
 }
